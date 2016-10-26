@@ -14,20 +14,18 @@
 
     <ion-side-menu side="left">
         <ion-header-bar class="bar-stable">
-            <h1 class="title">Left</h1>
+            <h1 class="title">Menu</h1>
         </ion-header-bar>
         <ion-content>
             <ion-list>
-                <ion-item menu-close ng-click="login()">
-                    Login
+
+                <ion-item menu-close href="#/main/search">
+                    Search Product
                 </ion-item>
-                <ion-item menu-close href="#/app/search">
-                    Search
+                <ion-item menu-close href="#/main/dashboard">
+                    Browse Categories
                 </ion-item>
-                <ion-item menu-close href="#/app/browse">
-                    Browse
-                </ion-item>
-                <ion-item menu-close ng-click="logout()"  style="background-color: rgba(255, 158, 14, 0.47)">
+                <ion-item menu-close ng-click="logout()">
                     Logout
                 </ion-item>
             </ion-list>

@@ -45,15 +45,41 @@ angular.module('uzaPoint', ['ionic','uzaPoint.controllers'])
               url:'/dashboard',
               views: {
             'menuContent': {
-                templateUrl: 'templates/dashboard.html'
+                templateUrl: 'templates/dashboard.html',
+                controller:'dashboardController'
             }
         }
           })
-          /*.state('',{
-              url:'/dashboard',
-              templateUrl:'templates/dashboard.html',
-              controller:'dashboardController'
-          })*/;
+          .state('mainMenu.search',{
+              url:'/search',
+              views: {
+            'menuContent': {
+                templateUrl: 'templates/search.html',
+                controller:'searchController'
+            }
+        }
+          })
+
+          .state('mainMenu.subCategory',{
+              url:'/subCategory',
+              views: {
+            'menuContent': {
+                templateUrl: 'templates/subCategory.html',
+                controller:'subCategoryController'
+            }
+        }
+          })
+          .state('mainMenu.orderProductPage',{
+              url:'/orderProductPage',
+              views: {
+                  'menuContent': {
+                      templateUrl: 'templates/orderProductPage.html'
+                  }
+          }})
+          .state('walkThrough',{
+              url:'/walkThrough',
+              templateUrl:'templates/walkThrough.html'
+          });
 
         $urlRouterProvider.otherwise('/home');
     });

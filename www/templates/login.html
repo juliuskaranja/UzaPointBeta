@@ -6,8 +6,9 @@
             Welcome Back
         </div>
 
-        <form class="padding" style="padding: 20px" ng-submit="loginUser()">
-            <label class="item item-input item-stacked-label">
+        <form class="padding" style="margin-top: 30px" ng-submit="loginUser()">
+
+            <label class="item item-input item-stacked-label" style="background-color: transparent;">
                 <span class="input-label">Email</span>
                 <input type="text" placeholder="john@suhr.com">
             </label>
@@ -17,9 +18,13 @@
                 <span class="input-label">First Name</span>
                 <input type="text" placeholder="John">
             </label>
-            <button type="submit" class="button button-light" style="text-align: center">
-                button-light
-            </button>
+            <label class="item item-input item-stacked-label">
+                <button type="submit" class="button button-light padding button-block"
+                        style="text-align: center;">
+                    Login
+                </button>
+            </label>
+
         </form>
 
     </ion-content>
