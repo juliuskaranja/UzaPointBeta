@@ -120,21 +120,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="search.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/templates/search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="65" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="40" column="14" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.32605305">
+              <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -156,8 +156,8 @@
         <option value="$PROJECT_DIR$/www/templates/subCategory.html" />
         <option value="$PROJECT_DIR$/www/js/mainController.js" />
         <option value="$PROJECT_DIR$/www/templates/orderProductPage.html" />
-        <option value="$PROJECT_DIR$/www/css/style.css" />
         <option value="$PROJECT_DIR$/www/templates/search.html" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
       </list>
     </option>
   </component>
@@ -283,7 +283,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="sea&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/search.html&#10;st&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/css/style.css&#10;co&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/js/mainController.js&#10;su&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/subCategory.html&#10;cate&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/subCategory.html&#10;pro&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/orderProductPage.html&#10;das&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/dashboard.html&#10;home&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/home.html&#10;login&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/login.html&#10;app&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/js/app.js&#10;se&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/search.html&#10;logi&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/login.html&#10;a&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/js/app.js&#10;contr&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/js/mainController.js&#10;button-outline&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/css/style.css&#10;sea&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/search.html&#10;st&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/css/style.css&#10;co&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/js/mainController.js&#10;su&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/subCategory.html&#10;cate&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/subCategory.html&#10;pro&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/orderProductPage.html&#10;das&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/dashboard.html&#10;home&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/home.html&#10;login&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/login.html&#10;app&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/js/app.js&#10;se&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/search.html&#10;logi&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/templates/login.html&#10;a&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/js/app.js&#10;contr&#9;FILE&#9;file:///var/www/html/job/Mobi/myApp/www/js/mainController.js&#10;button-outline&#9;null&#9;null" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
@@ -827,14 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="14" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/templates/sideMenu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.0">
@@ -847,6 +839,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="65" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32605305">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
           <folding />
         </state>
       </provider>

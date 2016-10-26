@@ -35,6 +35,8 @@
 }
 .myLoginPage{
     background: url("../img/up/loginBack.jpg") no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
     position: absolute;
     background-size: cover;
 }
@@ -44,6 +46,8 @@
 .myWalkThrough{
     background: url("../img/up/walkTrhough.png") no-repeat fixed center;
     position: absolute;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
     background-size: cover;
 }
 .loginMessage{
